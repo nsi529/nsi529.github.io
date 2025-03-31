@@ -12,20 +12,25 @@ color:whitesmoke
 }
 p
 { 
-font-size: 37px
-color:whitesmoke
+color:darkblue
+}
+P
+{
+  font-size: 20px;
+}
+p
+{
 border: 5px solid gray;
-width: 20%;
+width: 100%;
 text-align:center;
 }
 body 
 {
- background-image:url('https://ayudawp.com/wp-content/uploads/2023/03/database-tablas-optimizar-wordpress.jpg');
+
+ background-image:url('https://img.freepik.com/vecteurs-libre/fond-polygonale-realiste_52683-60158.jpg');
  height: 100%;
  background-repeat: no-repeat;
  background-attachment: fixed;
  background-position: center;
  background-size: cover;
 }
-
-
