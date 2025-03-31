@@ -1,25 +1,25 @@
 h1
 { 
-    text-align:center;
-    text-decoration:underline;
-    color:whitesmoke
+text-align:center;
+text-decoration:underline;
+color:whitesmoke
 }
 
 h2
 { 
-    text-decoration:underline;
-    color:whitesmoke
+text-decoration:underline;
+color:whitesmoke
 }
 p
 { 
-    font-size: 37px
-    color:whitesmoke
+font-size: 37px
+color:whitesmoke
 }    
 p
 {
-  border: 5px solid darkblue;
-  width: 20%;
-  text-align:center;
+border: 5px solid darkblue;
+width: 20%;
+text-align:center;
 }
 body 
 {
