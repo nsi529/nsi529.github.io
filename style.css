@@ -24,7 +24,7 @@ border: 5px solid gray;
 width: 100%;
 text-align:center;
 }
-body 
+body
 {
 
  background-image:url('https://img.freepik.com/vecteurs-libre/fond-polygonale-realiste_52683-60158.jpg');
@@ -33,4 +33,5 @@ body
  background-attachment: fixed;
  background-position: center;
  background-size: cover;
+ font-family: arial;
 }
