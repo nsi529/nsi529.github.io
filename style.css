@@ -12,9 +12,8 @@ h2
 }
 p
 { 
-   color:whitesmoke
-   font-size: 37px
- 
+    font-size: 37px
+    color:whitesmoke
 }    
 p
 {
@@ -24,7 +23,7 @@ p
 }
 body 
 {
- background-image:url('https://media.gettyimages.com/id/157334670/fr/photo/base-de-donn%C3%A9es.jpg?s=612x612&w=gi&k=20&c=Us7tWjlWletlLBZEz3HOaV2LY0zn7TTfRUa-L4_Td7Q=');
+ background-image:url('https://ayudawp.com/wp-content/uploads/2023/03/database-tablas-optimizar-wordpress.jpg');
  height: 100%;
  background-repeat: no-repeat;
  background-attachment: fixed;
