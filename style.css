@@ -13,7 +13,7 @@ h2
 p
 { 
    color:whitesmoke
-    font-size: 37px
+   font-size: 37px
  
 }    
 p
@@ -22,13 +22,14 @@ p
   width: 20%;
   text-align:center;
 }
-         body {
-         background-image:url('https://media.gettyimages.com/id/157334670/fr/photo/base-de-donn%C3%A9es.jpg?s=612x612&w=gi&k=20&c=Us7tWjlWletlLBZEz3HOaV2LY0zn7TTfRUa-L4_Td7Q=');
-         height: 100%;
-         background-repeat: no-repeat;
-         background-attachment: fixed;
-         background-position: center;
-         background-size: cover;
-         }
+body 
+{
+ background-image:url('https://media.gettyimages.com/id/157334670/fr/photo/base-de-donn%C3%A9es.jpg?s=612x612&w=gi&k=20&c=Us7tWjlWletlLBZEz3HOaV2LY0zn7TTfRUa-L4_Td7Q=');
+ height: 100%;
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-position: center;
+ background-size: cover;
+}
 
 
