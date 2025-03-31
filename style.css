@@ -1,0 +1,23 @@
+h1
+{ 
+    text-align:center;
+    text-decoration:underline;
+    color:whitesmoke
+}
+
+h2
+{ 
+    text-decoration:underline;
+    color:whitesmoke
+}
+p
+{ 
+   color:whitesmoke
+ 
+}    
+p
+{
+  border: 5px solid darkblue;
+  width: 50%;
+  text-align:center;
+}
